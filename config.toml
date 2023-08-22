@@ -1,10 +1,10 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://biokic.github.io/symbiota-docs/"
+baseURL = "https://famhawiteinfosys.github.io"
 # theme
 theme = "dot"
 # site title
-title = "Symbiota Docs"
+title = "Famhawite Infosys"
 # disable language
 # disableLanguages = []
 # google analytics
@@ -18,7 +18,7 @@ unsafe = true
 
 ############################# Default Parameters ##########################
 [params]
-editURL = "https://github.com/BioKIC/symbiota-docs/edit/master/content/"
+editURL = "https://GitHub.com/famhawite-infosys.github.io/edit/master/content/"
 # logo is for all page
 logo = ""
 # logo white is for homepage logo, you can use colorful logo too...
@@ -67,11 +67,11 @@ languageName = "En"
 languageCode = "en-us"
 weight = 1
 #copyright = "Put together with \u2665 by [Laura](https://laura.rochaprado.com/)"
-copyright = "© 2022 [Symbiota Support Hub](https://symbiota.org)"
+copyright = "© 2019 - 2023 [Famhawite Infosys](https://famhawiteinfosys.github.io)"
 
 # banner
 [Languages.en.params.banner]
-title = "Symbiota Documentation"
+title = "Famhawite Infosys Documentation"
 subtitle = "Growing archive of help files for one of the most popular Natural History content management systems"
 bg_image = "images/annie-spratt-5cFwQ-WMcJU-unsplash.jpg"
 placeholder = "Quick search for terms here. Press enter to go to results page."
@@ -164,7 +164,7 @@ copyright = "© 2021 [Symbiota Support Hub](https://symbiota.org)"
 
 # banner
 [Languages.es.params.banner]
-title = "Documentación de Symbiota"
+title = "Documentación de Famhawite Infosys"
 subtitle = "Un archivo creciente de documentos de ayuda para uno de los sistemas de manejo de contenido de Historia Natural más populares"
 bg_image = "images/annie-spratt-5cFwQ-WMcJU-unsplash.jpg"
 placeholder = "Busque contenido aquí"
@@ -254,11 +254,11 @@ languageName = "Fr"
 languageCode = "fr-fr"
 weight = 3
 #copyright = "Copyright © 2020 un thème Hugo par [Gethugothemes](https://gethugothemes.com/)"
-copyright = "© 2021 [Symbiota Support Hub](https://symbiota.org)"
+copyright = "© 2019 -2023 [Famhawite Infosys](https://famhawiteinfosys.github.io)"
 
 # banner
 [Languages.fr.params.banner]
-title = "Symbiota Documentation"
+title = "Famhawite Infosys Documentation"
 subtitle = "Growing archive of help files for one of the most popular Natural History content management systems"
 bg_image = "images/annie-spratt-5cFwQ-WMcJU-unsplash.jpg"
 placeholder = "Avoir une question? Il suffit de demander ici ou de saisir les termes"
